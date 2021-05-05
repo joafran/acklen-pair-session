@@ -1,0 +1,25 @@
+{
+  "name": "acklen-pair-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joafran/acklen-pair-session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joafran/acklen-pair-session/issues"
+  },
+  "homepage": "https://github.com/joafran/acklen-pair-session#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
